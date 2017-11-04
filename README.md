@@ -17,7 +17,7 @@ Back-End Exercise, Nashville Software School
 
 ## References
 [aggregation](https://github.com/nashville-software-school/bangazon-ltd/blob/master/orientation/FND_14_INHERIT_COMPOSE_AGGREGATE.md)
-
+[Lynda: Using Aggregation and Composition](https://www.lynda.com/search?q=aggregate+inheritance)
 
 
 
